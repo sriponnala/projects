@@ -17,7 +17,7 @@ Use free or low-cost models (Gemini, OpenRouter, and similar) as needed. Frontie
 
 1. Add project folders under this directory as you build them.
 2. Create a Python environment per project (or one shared environment if you prefer).
-3. Keep secrets in `.env` — do not commit API keys.
+3. `.env` — file is not published
 
 ## Prerequisites
 
