@@ -4,12 +4,10 @@ Workspace for agentic AI experiments and applications.
 
 ## Stack
 
-- Python
 - OpenAI Agents SDK
 - CrewAI
 - LangGraph
 - AutoGen
-- Google ADK
 - Pydantic AI
 - Model Context Protocol (MCP)
 
